@@ -141,7 +141,7 @@ i {
 
 @media (max-width: 600px) {
   html {
-    font-size: 13px;
+    font-size: 12px;
     white-space: nowrap;
   }
   #navbar ul {
